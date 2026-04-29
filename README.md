@@ -1,3 +1,5 @@
+## Caution: Strictly prohibited for use in California.
+
 # mediapipe-mouse-control
 Script i used for some experiments with mouse control by hand-tracking.
 
